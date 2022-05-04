@@ -1,5 +1,5 @@
 # Trinity-DAO
-Just an attempt to creating an OlympusDAO/wonderland fork on Matic network. 
+Just an attempt to create an OlympusDAO/wonderland fork on Matic network. 
 Wrote a hardhat deployment script to deploy and is currently deployed on mumbai testnet on polygon. 
 
 >  Not intended for production use
